@@ -16,11 +16,24 @@ Descargar modulos que son necesarios para levantar el servicio
 }
 
 # Executed
-npm install dotenv --save
-npm install express
-npm install jsonwebtoken
-npm install md5
-npm install mongoose@6.10.0
+<table>
+    <tr>
+        <td>npm install dotenv --save</td>
+        <td>npm install express</td>
+        <td>npm install jsonwebtoken</td>
+        <td>npm install md5</td>
+        <td>npm install mongoose@6.10.0</td>
+    </tr>
+</table>
+
+
+
+# Mongo BD
+Debes tener creada una base de datos con el nombre de 'Biblioteca'
+
+
+
+
 
 
 
